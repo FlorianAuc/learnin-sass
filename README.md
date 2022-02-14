@@ -1,1 +1,1 @@
-# learnin-sass
+# learning-sass
